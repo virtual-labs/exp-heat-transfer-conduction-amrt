@@ -7,7 +7,7 @@ Two identical circular slabs of the material to be tested are placed on either s
 The purpose of the guard heater is to prevent heat loss from the edge of the main heater by maintaining the temperature outside the main heater at the same temperature as the main heater. This ensures that all heat lost from the main heater flows through the test slabs.
 
 <div style="margin-left: 20px;">
-  <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
+  <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 600px; height: auto;">
   <p style="text-align: center; font-size: smaller; font-style: italic;">Figure 1: Arrangement of two identical circular slabs of the material to be tested; GH: Guard heater, MH: Main heater</p>
 </div>
 

@@ -6,7 +6,7 @@ A circular main heater plate (MH) is surrounded by an annular guard heater plate
 Two identical circular slabs of the material to be tested are placed on either side of and in good thermal contact with the heater plates. On the outer sides of the two slabs, in good thermal contact, are two circular water-cooled slabs whose surface temperatures can also be monitored with thermocouples (Fig 1).
 The purpose of the guard heater is to prevent heat loss from the edge of the main heater by maintaining the temperature outside the main heater at the same temperature as the main heater. This ensures that all heat lost from the main heater flows through the test slabs.
 
-<div style="margin-left: 20px;">
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;">
   <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 600px; height: auto;">
   <p style="text-align: center; font-size: smaller; font-style: italic;">Figure 1: Arrangement of two identical circular slabs of the material to be tested; GH: Guard heater, MH: Main heater</p>
 </div>

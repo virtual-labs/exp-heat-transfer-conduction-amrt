@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In SI , the unit of thermal conductivity is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "$Wm^{-1}K^{-1}$",
+        "b": "$Wm^{-1}K^{-2}$",
+        "c": "$WmK^{-1}$",
+        "d": "$WmK^{-2}$"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Rate of heat conduction is inversely proportional to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "area",
+        "b": "temperature gradient",
+        "c": "thermal conductivity of material",
+        "d": "thickness of the material"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one has higher thermal conductivity",
+      "answers": {
+        "a": "Air",
+        "b": "Wood",
+        "c": "Glass",
+        "d": "Silver"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

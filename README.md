@@ -1,18 +1,18 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Physical Sciences
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Heat & Thermodynamics Virtual Lab
+<b> Experiment|     <b> Heat transfer by Conduction
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Heat conduction is a mode of transfer of energy within and between bodies of matter, due to a temperature gradient. Conduction takes place in all forms of ponderable matter, viz. solids, liquids, gases and plasmas.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
 <b> Email id|     <b>  
 <b> Department |  
 
@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Mr. Saneesh P F | . | . | . | .
 2 | . | . | . | . | .

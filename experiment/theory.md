@@ -24,7 +24,7 @@ $$\frac{Q}{t}=\frac{(kA\Delta T)}{d}$$
 
 $$k=\frac{Qd}{tA\Delta T}........(1)$$
 
-Where $\Delta T = T_{1}-T{2}$, and $k$ s the thermal conductivity of the material, is a measure of its ability to conduct heat. The SI unit of $k$ is $Wm^{-1}K^{-1}$.
+Where $\Delta T = T_{1}-T{2}$, and $k$ is the thermal conductivity of the material, is a measure of its ability to conduct heat. The SI unit of $k$ is $Wm^{-1}K^{-1}$.
 
 Thermal conductivity: Note that a heat flow rate is involved, and the numerical value of the thermal conductivity indicates how fast heat will flow. In general, thermal conductivity is strongly temperature dependent. It has the units of watts per meter per Kelvin. Heat transfer by conduction in a solid can be realized through the support of phonons, electrons and photons. The individual contributions of these carriers widely depend on material and its temperature. Thermal conductivity is thus a second order tensor, but in a material with cubic isotropy it reduces to a scalar. It is an intensive property (changing the amount of material does not change its thermal conductivity) and is a function of both pressure and temperature.
 
@@ -32,7 +32,7 @@ The thermal resistance R of a layer of a material of thickness d and of thermal 
 
 $$R=\frac{d}{k}..............(2)$$
 
-he greater the value of R, the greater the resistance to the flow of heat.
+The greater the value of R, the greater the resistance to the flow of heat.
 
 ### Applications
 Heat transfer has wide applications for the proper functioning of thermal devices and systems. This principle is used to solve many problems in thermal mechanics.

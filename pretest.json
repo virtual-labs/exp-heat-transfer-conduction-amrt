@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Heat transfer by conduction is poorest in",
+      "answers": {
+        "a": "liquids",
+        "b": "gases",
+        "c": "both liquids and gases",
+        "d": "solids"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In conduction",
+      "answers": {
+        "a": "heat is carried by means of collisions between molecules",
+        "b": "heat is transferred from one place to another by actual motion of fluid",
+        "c": "energy is carried by e-m waves emitted by the object",
+        "d": "all of the above"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In SI , the unit of thermal conductivity is",
+      "answers": {
+        "a": "$Wm^{-1}K^{-1}$",
+        "b": "$Wm^{-1}K^{-2}$",
+        "c": "$WmK^{-1}$",
+        "d": "$WmK^{-2}$"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Rate of heat conduction is inversely proportional to",
+      "answers": {
+        "a": "area",
+        "b": "temperature gradient",
+        "c": "thermal conductivity of material",
+        "d": "thickness of the material"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one has higher thermal conductivity",
+      "answers": {
+        "a": "Air",
+        "b": "Wood",
+        "c": "Glass",
+        "d": "Silver"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

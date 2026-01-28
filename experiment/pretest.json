@@ -24,6 +24,42 @@
      
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "In SI , the unit of thermal conductivity is",
+      "answers": {
+        "a": "$Wm^{-1}K^{-1}$",
+        "b": "$Wm^{-1}K^{-2}$",
+        "c": "$WmK^{-1}$",
+        "d": "$WmK^{-2}$"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Rate of heat conduction is inversely proportional to",
+      "answers": {
+        "a": "area",
+        "b": "temperature gradient",
+        "c": "thermal conductivity of material",
+        "d": "thickness of the material"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one has higher thermal conductivity",
+      "answers": {
+        "a": "Air",
+        "b": "Wood",
+        "c": "Glass",
+        "d": "Silver"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
     }
   ]
 }

@@ -45,7 +45,7 @@ where d is the diameter of the MH, not , as might first be assumed.
 
 ### Procedure for Real lab
 
-The procedure for the real lab is quite similar. The main differences are (1) the guard heater can be set to a slightly different temperature, as needed, to keep the temperature of the main heater uniform, and (2) the calculations can be extended to allow for and/or find the dependence of k on $|delta T$.
+The procedure for the real lab is quite similar. The main differences are (1) the guard heater can be set to a slightly different temperature, as needed, to keep the temperature of the main heater uniform, and (2) the calculations can be extended to allow for and/or find the dependence of k on $\Delta T$.
 
 ###  Observations and Calculations
 
